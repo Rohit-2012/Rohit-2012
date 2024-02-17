@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-2012&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-2012" /> </p>
 
-- 🌱 I’m currently learning **React.JS, Next.JS, SASS, Redux**
+- 🌱 I’m currently learning **MongoDb, Express.JS, Node.JS, React Native and Next.JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rohit-2012](https://github.com/Rohit-2012)
 
